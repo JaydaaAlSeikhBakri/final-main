@@ -58,6 +58,7 @@ namespace Tecno_2
             Response.Cookies.Add(cookie);
             Response.Redirect("Page2.aspx?");
 
+
             
         }
 
