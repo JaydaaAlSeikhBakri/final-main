@@ -59,7 +59,7 @@ namespace Tecno_2
             Response.Redirect("Page2.aspx?");
 
 
-            
+            //gg
         }
 
       
