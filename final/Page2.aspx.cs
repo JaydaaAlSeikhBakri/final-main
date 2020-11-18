@@ -18,6 +18,7 @@ namespace Tecno_2
           // label5.Text = "Welcome " + Request.QueryString["name"].ToString();
 
 
+
             HttpCookie cookie = Request.Cookies["Cookie"];
             if(cookie!=null)
             {

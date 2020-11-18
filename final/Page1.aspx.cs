@@ -21,6 +21,7 @@ namespace Tecno_2
             Response.Write("<br>");
         }
 
+
         protected void btnSubmit_Click_Click(object sender, EventArgs e)
         {
             ViewState["name"] = txtname.Text;
