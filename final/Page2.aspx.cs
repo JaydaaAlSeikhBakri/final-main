@@ -19,6 +19,7 @@ namespace Tecno_2
 
 
 
+
             HttpCookie cookie = Request.Cookies["Cookie"];
             if(cookie!=null)
             {
